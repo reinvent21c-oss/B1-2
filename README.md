@@ -1,4 +1,4 @@
-# 에어K (Air K) AI 광고 🎬
+SS# 에어K (Air K) AI 광고 🎬
 ### Codyssey AI Native — 멀티미디어 미션 B1-2 (1회차)
 
 > 생성형 AI만을 주된 소스로 제작한 **17초 브랜드 인지(Awareness) 광고**.
@@ -86,7 +86,7 @@
 ## 📄 스토리보드 (기획 문서)
 
 👉 **[기획 문서 PDF 보기](./aerok_storyboard_v2.2.pdf)**
-👉 **[영상 보기]https://drive.google.com/file/d/1N4Vi_6R2ORnXK36wITcnpQydBv_y7OWC/view?usp=sharing**
+👉 **[영상 보기](https://drive.google.com/file/d/1N4Vi_6R2ORnXK36wITcnpQydBv_y7OWC/view?usp=sharing)**
 
 포함 내용: 브랜드 아이덴티티 · 캠페인 목표 · 씬별 상세(8개 필수 필드) · 입력 프롬프트 원문 · 프롬프트 수정 전/후 사례(3건) · 멀티모달 이슈 기록
 
