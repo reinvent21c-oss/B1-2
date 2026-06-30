@@ -1,4 +1,4 @@
-# 에어K (Air K) AI 광고 🎬
+# 항공사 에어K (Air K) AI 광고 🎬
 ### Codyssey AI Native — 멀티미디어 미션 B1-2
 
 > 생성형 AI만을 주된 소스로 제작한 **브랜드 인지(Awareness) 광고**.
