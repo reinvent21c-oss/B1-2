@@ -74,7 +74,7 @@
 ├── README.md
 ├── aerok_storyboard_v2.2.pdf      # 기획 문서 (제출용 PDF)
 ├── assets/                        # 생성 이미지
-└── AirK_ad_final.mp4 
+└── AirK_ad_final.mp4              # 생성 영상
 ```
 
 ---
