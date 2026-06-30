@@ -82,7 +82,6 @@
 ## 📄 스토리보드 (기획 문서)
 
 👉 **[기획 문서 PDF 보기](./aerok_storyboard_v2.3.pdf)**
-👉 **[영상 보기](https://drive.google.com/file/d/1N4Vi_6R2ORnXK36wITcnpQydBv_y7OWC/view?usp=sharing)**
 
 포함 내용: 브랜드 아이덴티티 · 캠페인 목표 · 씬별 상세(8개 필수 필드) · 입력 프롬프트 원문 · 프롬프트 수정 전/후 사례(3건) · 멀티모달 이슈 기록
 
