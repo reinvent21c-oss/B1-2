@@ -74,10 +74,7 @@
 .
 ├── README.md
 ├── aerok_storyboard_v2.2.pdf      # 기획 문서 (제출용 PDF)
-└── assets/                        # 생성 이미지 (선택)
-    ├── scene1.png                 # 씬1 — 앱 혜택 화면 (카페)
-    ├── scene2.png ~ scene4.png    # 씬2~4 영상용 키프레임 이미지
-    └── scene5_endcard.png         # 씬5 — 브랜드 엔딩 카드
+├── assets/                        # 생성 이미지 (선택)
 └── AirK_ad_final.mp4 
 ```
 
