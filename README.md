@@ -10,7 +10,7 @@
 
 ## 📺 광고 영상
 
-👉 **[영상 보기 (YouTube)](https://youtu.be/VIDEO_ID)** &nbsp;|&nbsp; *(업로드 후 링크 교체)*
+👉 **[영상 보기](https://drive.google.com/file/d/1N4Vi_6R2ORnXK36wITcnpQydBv_y7OWC/view?usp=sharing)** &nbsp;|&nbsp; *(업로드 후 링크 교체)*
 
 > 영상 파일(MP4)은 **GitHub 단일 파일 100MB 제한**으로 직접 업로드하지 않고 외부 링크로 제공합니다.
 > (YouTube 일부공개 또는 Google Drive 공유 링크 권장)
