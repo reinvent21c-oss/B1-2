@@ -11,8 +11,10 @@
 ## 📺 광고 영상
 
 👉 **[영상 보기(ver10sec)](./assets/AirK_광고10초버전.mp4)**
-👉 **[영상 보기(ver15sec)](./assets/AirK_광고15초버전.mp4)**
+👉 **[영상 보기(ver10sec)](https://drive.google.com/file/d/1Rxz_Aex3uG1jhnK_YIGfDX9w3OGgOtDU/view?usp=sharing)**
 
+👉 **[영상 보기(ver15sec)](./assets/AirK_광고15초버전.mp4)**
+👉 **[영상 보기(ver15sec)](https://drive.google.com/file/d/1rtz2nlWdUI1zoqMozTaMnrvL5m9ML1fr/view?usp=sharing)**
 
 > 영상 파일(MP4)은 **GitHub 단일 파일 25MB 제한**으로 직접 업로드하지 않고 외부 링크로 제공합니다.
 
